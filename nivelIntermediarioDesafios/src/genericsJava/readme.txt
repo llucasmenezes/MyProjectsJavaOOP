@@ -1,0 +1,1 @@
+colocando em prática o GenericsList. Aqui nesse desafio, fui atribuído a fazer uma bolsa genérica, que pode colocar vários items diferentes.
