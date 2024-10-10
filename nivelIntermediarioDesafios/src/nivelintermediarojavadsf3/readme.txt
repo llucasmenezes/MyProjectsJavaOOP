@@ -1,0 +1,1 @@
+Criar um programa em Java para gerenciar informações de ninjas utilizando herança.
