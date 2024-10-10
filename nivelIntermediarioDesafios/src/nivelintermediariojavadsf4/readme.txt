@@ -1,0 +1,1 @@
+Criar um programa que gerencia diferentes tipos de ninjas, cada um com suas habilidades e informações. Objetivo é utilizar interfaces e polimorfismo para lidar com diferentes tipos de ninja e suas habilidades.
